@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=PT+Mono&family=Poppins&display=swap');
+
+/*
+font-family: 'Open Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'PT Mono', monospace;
+*/
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.font_ptmono{
+  font-family: 'PT Mono', monospace;
+}
+
+.font_opensans{
+  font-family: 'Open Sans', sans-serif;
+}
+
+.app{
+  @apply px-4 py-2 mt-16 md:mx-28
+}
+
+.outline_btn{
+  @apply border-[1px] border-purple-600 rounded px-4 py-1 text-purple-500 active:bg-purple-600 active:text-white
+}
+
+.search_input{
+  @apply rounded bg-gray-200 w-full px-2 pl-8 py-1 outline-0
+}
+
+.sender_msg{
+  @apply inline-block ml-auto bg-gradient-to-r from-blue-700 to-purple-600 text-white rounded rounded-2xl px-4 py-2
+}
+
+.other_msg{
+  @apply inline-block bg-gray-200 break-all rounded rounded-2xl px-4 py-2
+}
