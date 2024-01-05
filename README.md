@@ -21,7 +21,7 @@ iChat is a snappy messaging app I built with Next.js and Firebase, delivering sw
 - 🗣️ Chat capability with both myself and other users
 
 ### Live Demo 🎉
-Explore the live version of Tech-Canvas [here](https://ichat-1343.netlify.app/).
+Explore the live version of iChat [here](https://ichat-1343.netlify.app/).
 
 ### 📬 Connect with me
 
