@@ -5,7 +5,6 @@
 iChat is a snappy messaging app I built with Next.js and Firebase, delivering swift and precise real-time communication.
 
 ### 🔴 Unveiling the Journey of Building iChat
-
 > [!Note]
 > I built this chat app out of excitement, leveraging the real-time sync power of Firebase. I thoroughly enjoyed the journey, and the excitement peaked when I finished the project. Being able to chat using my own app was a great achievement for me.
 
